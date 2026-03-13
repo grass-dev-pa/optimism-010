@@ -1,8 +1,6 @@
 module github.com/ethereum-optimism/optimism
 
-go 1.24.0
-
-toolchain go1.24.10
+go 1.25.0
 
 require (
 	github.com/BurntSushi/toml v1.5.0
@@ -64,7 +62,7 @@ require (
 	golang.org/x/crypto v0.37.0
 	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c
 	golang.org/x/mod v0.24.0
-	golang.org/x/oauth2 v0.25.0
+	golang.org/x/oauth2 v0.36.0
 	golang.org/x/sync v0.14.0
 	golang.org/x/term v0.31.0
 	golang.org/x/text v0.25.0
