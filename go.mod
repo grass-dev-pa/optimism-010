@@ -1,8 +1,6 @@
 module github.com/ethereum-optimism/optimism
 
-go 1.24.0
-
-toolchain go1.24.10
+go 1.25.0
 
 require (
 	github.com/BurntSushi/toml v1.5.0
@@ -66,7 +64,7 @@ require (
 	golang.org/x/mod v0.24.0
 	golang.org/x/oauth2 v0.25.0
 	golang.org/x/sync v0.14.0
-	golang.org/x/term v0.31.0
+	golang.org/x/term v0.41.0
 	golang.org/x/text v0.25.0
 	golang.org/x/time v0.11.0
 	gonum.org/v1/plot v0.16.0
@@ -272,7 +270,7 @@ require (
 	go.uber.org/zap v1.27.0 // indirect
 	golang.org/x/image v0.25.0 // indirect
 	golang.org/x/net v0.39.0 // indirect
-	golang.org/x/sys v0.36.0 // indirect
+	golang.org/x/sys v0.42.0 // indirect
 	golang.org/x/tools v0.32.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20250115164207-1a7da9e5054f // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250115164207-1a7da9e5054f // indirect
